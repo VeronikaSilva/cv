@@ -1,0 +1,55 @@
+h1 {
+    text-align: center;
+    color: red;
+    font-family: fantasy;
+    font-size: xxx-large;
+    text-shadow: 2px 2px 0 #88abd1, 3px 3px 7px #666666;
+}
+h2 {
+    text-align: left;
+    color: darkolivegreen;
+}
+body {
+    font: 14px "Poppins";
+    color: #414042;
+    background: burlywood;
+    display: flex;
+    flex-direction: column;
+}
+article header {
+    height: 100px;
+    width: 250px;
+    float: left;
+}
+article section {
+    width: 710px;
+    float: left;
+    background: ghostwhite;
+}
+nav ul {
+    margin: 0;
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+    height: 100%;
+}
+nav ul li {
+    color: darkolivegreen;
+    padding: 0 25px;
+    margin: 0 5px;
+    font-size: 1em;
+    line-height: 4.3em;
+}
+nav ul a {
+    color: rgb(218, 30, 30);
+    padding: 8px 0;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: x-large;
+}
+nav ul p {
+    color: darkolivegreen;
+
+
+}
